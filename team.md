@@ -11,12 +11,14 @@ SmartGrow brings together researchers, educators, and extension specialists unit
 
 ## Principal Investigators
 
-### Dr. Ying Jin **Associate Professor, College of Education**
+### Dr. Ying Jin
 
 ![Dr. Ying Jin](https://www.jmu.edu/coe/ltle/_images/faculty-staff/jin-ying.jpg)
 
-- James Madison University
-- Email: [jin4yx@jmu.edu](mailto:jin4yx@jmu.edu)
+**Associate Professor, College of Education**
+
+James Madison University
+[jin4yx@jmu.edu](mailto:jin4yx@jmu.edu)
 
 **Education**
 - Ph.D. in Research, Measurement, and Evaluation — University of Miami, FL
@@ -32,13 +34,14 @@ SmartGrow brings together researchers, educators, and extension specialists unit
 
 ## Co-Investigators & Collaborators
 
-### Dr. Zhuojun Duan **Assistant Professor, Computer Science**
+### Dr. Zhuojun Duan
 
 ![Dr. Zhuojun Duan](https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg)
 
-- James Madison University — College of Integrated Science and Engineering
-- Email: [duanzx@jmu.edu](mailto:duanzx@jmu.edu)
-- [Personal Website](https://w3.cs.jmu.edu/duanzx/index.html)
+**Assistant Professor, Computer Science**
+
+James Madison University — College of Integrated Science and Engineering
+[duanzx@jmu.edu](mailto:duanzx@jmu.edu) | [Personal Website](https://w3.cs.jmu.edu/duanzx/index.html)
 
 **Education**
 - Ph.D. in Computer Science — Georgia State University, USA (2018)
