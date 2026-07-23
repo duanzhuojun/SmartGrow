@@ -16,11 +16,13 @@ SmartGrow brings together researchers, educators, and extension specialists unit
 ![Dr. Ying Jin](https://www.jmu.edu/coe/ltle/_images/faculty-staff/jin-ying.jpg)
 
 **Associate Professor, College of Education**
-James Madison University
-[jin4yx@jmu.edu](mailto:jin4yx@jmu.edu)
+- James Madison University
+- Email: [jin4yx@jmu.edu](mailto:jin4yx@jmu.edu)
 
 **Education**
 - Ph.D. in Research, Measurement, and Evaluation — University of Miami, FL
+- M.S. in Statistics — Utah State University, UT
+- M.A. in Second Language Teaching — Utah State University, UT
 - B.A. in History — Minzu University of China, Beijing, China
 
 **Research Interests**
@@ -36,8 +38,9 @@ James Madison University
 ![Dr. Zhuojun Duan](https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg)
 
 **Assistant Professor, Computer Science**
-James Madison University — College of Integrated Science and Engineering
-[duanzx@jmu.edu](mailto:duanzx@jmu.edu) | [Personal Website](https://w3.cs.jmu.edu/duanzx/index.html)
+- James Madison University — College of Integrated Science and Engineering
+- Email: [duanzx@jmu.edu](mailto:duanzx@jmu.edu)
+- [Personal Website](https://w3.cs.jmu.edu/duanzx/index.html)
 
 **Education**
 - Ph.D. in Computer Science — Georgia State University, USA (2018)
